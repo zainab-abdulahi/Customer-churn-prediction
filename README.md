@@ -1,5 +1,5 @@
 ### Customer-churn-prediction
-Customer churn refers to the situation  whereby customers stop doing business with a company. Predicting churn helps businesses understand which customers are likely to leave so they can take action to retain them.
+Customer churn refers to the situation  whereby customers stop doing business with a company. Predicting churn helps businesses understand which customers are likely to leave so they can take action to retain them. Customer churn prediction is crucial in the sales industry as it enables businesses to identify customers who are likely to stop doing business with them. 
 
 ### Objective
 
